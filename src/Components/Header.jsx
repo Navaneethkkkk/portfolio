@@ -6,12 +6,12 @@ function Header() {
     <>
       <div className="w-[100%] h-[10vh] bg-black flex items-center justify-end ">
         <div className="flex items-center gap-7 justify-center p-9 font-serif">
-           <Link to="/">
+           < a href="/">
             <h1 className='text-white  hover:text-green-500'>ABOUT</h1>
-            </Link>
-            <Link to="/mywork">
+            </a>
+            <a href="#work">
             <h1 className='text-white  hover:text-green-500'>WORKS</h1>
-            </Link>
+            </a>
             <Link to="/skill"><h1 className='text-white  hover:text-green-500'>SKILL</h1></Link>
             
             

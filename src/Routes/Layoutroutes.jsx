@@ -14,13 +14,14 @@ function Layoutroutes() {
         <Header />
         <Routes>
           <Route path="/" element={<About />} />
-          <Route path="/mywork" element={<Work />} />
+          <Route path="/work" element={<Work />} />
           <Route path="/skill" element={<Skill />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
     </>
   );
+  
 }
 
 export default Layoutroutes;

@@ -3,8 +3,8 @@ import React from 'react'
 function Skill() {
   return (
     <>
-      <div className="w-[100%] h-[90vh] bg-black ">
-        <div className=" text-white font-serif ml-10 text-2xl">
+      <div className="w-[100%] h-[95vh] bg-black ">
+        <div className=" text-white font-serif ml-10 text-2xl pt-14">
             <h1 className="">SKILL</h1>
             <div className="w-18 text-green-500">
         <hr /> 
@@ -45,6 +45,7 @@ function Skill() {
 
         </div>
     </div>
+    
     </>
   )
 }

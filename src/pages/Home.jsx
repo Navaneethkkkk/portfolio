@@ -17,7 +17,7 @@ function Home() {
           <h1 className="text-white ml-66 pt-4 font-stretch-semi-expanded">
             &
           </h1>
-          <h1 className="text-white ml-50 pt-4 font-semibold text-6xl">UI DESIGNER</h1>
+          <h1 className="text-white ml-50 pt-4 font-semibold text-6xl">UI DESIGNER</h1> 
 
           <div className="text-green-500 pt-4 w-[95%]">
             <hr />
